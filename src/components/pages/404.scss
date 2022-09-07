@@ -1,0 +1,19 @@
+
+.not-found {
+    &__banner {
+        margin-top: 150px;
+        text-align: center;
+    }
+    &__title {
+        font-size: 1.8rem;
+    }
+    &__link {
+        color: #900011;
+        margin-top: 40px;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    &__link:hover {
+        color: #cc0018;
+    }
+}
